@@ -1,6 +1,3 @@
-> [!NOTE]
-> 本仓库复制自 [BuildAtDawn/qq-farm-bot](https://github.com/BuildAtDawn/qq-farm-bot)，遵循其原许可证 PolyForm Noncommercial License 1.0.0（仅限非商业用途）。
-
 <div align="center">
 
 <img src="web/public/icon.png" width="96" alt="QQ Farm Bot 图标">
